@@ -1,5 +1,5 @@
 <div>
-<h1 Hola, Soy Sergio Andres Lozano Bueno 👋> </h1>
+<h1 align ="center"> Hola, Soy Sergio Andres Lozano Bueno 👋 </h1>
 </div>
 <!--
 **SergiusYT/SergiusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
