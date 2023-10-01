@@ -1,6 +1,7 @@
 <div>
 <h1 align ="center"> Hola, Soy Sergio Andres Lozano Bueno 👋 </h1>
 </div>
+<img src="https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.jpg">
 <!--
 **SergiusYT/SergiusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
