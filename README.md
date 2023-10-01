@@ -1,7 +1,7 @@
 <div>
 <h1 align ="center"> Hola, Soy Sergio Andres Lozano Bueno 👋 </h1>
 </div>
-<img src="file:///C:/Users/sergi/Downloads/tumblr_n5jihvSjFl1scld9qo1_500.gif">
+<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
 <!--
 **SergiusYT/SergiusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
