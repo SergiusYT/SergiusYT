@@ -1,7 +1,7 @@
 <div>
 <h1 align ="center"> Hola, Soy Sergio Andres Lozano Bueno 👋 </h1>
 </div>
-<img src="https://blogdatlas.files.wordpress.com/2020/09/datlas_banner_cienciadedatos_dondeaprender.gif?w=900">
+<img src="file:///C:/Users/sergi/Downloads/tumblr_n5jihvSjFl1scld9qo1_500.gif">
 <!--
 **SergiusYT/SergiusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
