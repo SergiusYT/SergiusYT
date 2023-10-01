@@ -2,6 +2,11 @@
 <h1 align ="center"> Hola, Soy Sergio Andres Lozano Bueno 👋 </h1>
 </div>
 <img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
+
+<audio controls>
+  <source src="https://github.com/tu-usuario/tu-repositorio/blob/main/nombre-de-la-musica.mp3" type="audio/mpeg">
+  Tu navegador no soporta la reproducción de audio.
+</audio>
 <!--
 **SergiusYT/SergiusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
