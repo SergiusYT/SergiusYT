@@ -2,7 +2,7 @@
 <h1 align ="center"> Hola mundo, Soy Sergio Andres Lozano Bueno 💻✌️ </h1>
 </div>
 
-<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif" style="pointer-events: none;">
+<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
 
 
 
