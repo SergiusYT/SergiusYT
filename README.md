@@ -17,7 +17,5 @@ Datos Sobre mi:
   
 [![GitHub](https://img.shields.io/badge/595-Instagram-red?logo=instagram)](https://instagram.com/sergio_andres_lozano_?igshid=OGQ5ZDc2ODk2ZA==)
 
-[![Texto alternativo](https://badgen.net/github/dependents-repo/micromatch/micromatch)](https://instagram.com/sergio_andres_lozano_?igshid=OGQ5ZDc2ODk2ZA==)
-
 
 (>‿◠)✌
