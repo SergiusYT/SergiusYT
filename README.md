@@ -14,7 +14,8 @@ Datos Sobre mi:
 - 💡🧠 Pensamiento emprendedor.
 - 😎🧐 Persona con hambre de conocimiento.
 
-![GitHub](https://img.shields.io/badge/595-Instagram-red?logo=instagram)
+  
+[![GitHub](https://img.shields.io/badge/595-Instagram-red?logo=instagram)](https://instagram.com/sergio_andres_lozano_?igshid=OGQ5ZDc2ODk2ZA==)
 
-color/cyan/cyan?label=
+
 (>‿◠)✌
