@@ -5,6 +5,8 @@
 
 
 ![Texto alternativo](https://badgen.net/github/dependents-repo/micromatch/micromatch)
+![Texto alternativo](https://badgen.net/badge/icon/github?icon=github&label)
+
 
 Datos Sobre mi:
 
