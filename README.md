@@ -14,7 +14,7 @@ Datos Sobre mi:
 - 💡🧠 Pensamiento emprendedor.
 - 😎🧐 Persona con hambre de conocimiento.
 
-![GitHub](https://badgen.net/badge/color/cyan/cyan?/github?icon=github&label)
+![GitHub](https://img.shields.io/badge/595-Instagram-red?logo=instagram)
 
 color/cyan/cyan?label=
 (>‿◠)✌
