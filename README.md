@@ -4,9 +4,6 @@
 <img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
 
 
-![Texto alternativo](https://badgen.net/github/dependents-repo/micromatch/micromatch)
-![Texto alternativo](https://badgen.net/badge/icon/github?icon=github&label)
-
 
 Datos Sobre mi:
 
@@ -16,5 +13,8 @@ Datos Sobre mi:
 - 📽️📹 Manejo de multimedia.
 - 💡🧠 Pensamiento emprendedor.
 - 😎🧐 Persona con hambre de conocimiento.
+
+![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
+
 
 (>‿◠)✌
