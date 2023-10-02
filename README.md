@@ -1,7 +1,7 @@
 <div>
 <h1 align ="center"> Hola mundo, Soy Sergio Andres Lozano Bueno 💻✌️ </h1>
 </div>
-<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
+<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif"alt="Banner de presentacion">
 
 
 
