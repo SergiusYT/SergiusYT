@@ -4,7 +4,7 @@
 <img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
 
 
-<img src= "https://badgen.net/github/dependents-repo/micromatch/micromatch">
+![Texto alternativo](https://badgen.net/github/dependents-repo/micromatch/micromatch)
 
 Datos Sobre mi:
 
