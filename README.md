@@ -1,22 +1,15 @@
 <div>
-<h1 align ="center"> Hola, Soy Sergio Andres Lozano Bueno 👋 </h1>
+<h1 align ="center"> Hola mundo, Soy Sergio Andres Lozano Bueno 💻✌️ </h1>
 </div>
 <img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
 
-<audio controls>
-  <source src="https://github.com/SergiusYT/SergiusYT/blob/main/Musica.mp3" type="audio/mpeg">
-</audio>
-<!--
-**SergiusYT/SergiusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Datos Sobre mi:
 
-Here are some ideas to get you started:
+- 📚📖 Estudiante de Ingenieria de Sistemas (2 semestre).
+- 💻🎖️ Tecnico en Programación de software.
+- 🎨🖋️ Conocimientos de diseño grafico.
+- 📽️📹 Manejo de multimedia.
+- 💡🧠 Pensamiento emprendedor.
+- 😎🧐 Persona con hambre de conocimiento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(>‿◠)✌
