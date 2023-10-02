@@ -4,7 +4,7 @@
 <img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
 
 
-https://img.shields.io/badge/
+https://img.shields.io/badge/any_text-you_like-blue
 
 Datos Sobre mi:
 
