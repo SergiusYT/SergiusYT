@@ -8,7 +8,7 @@
 
 Datos Sobre mi:
 
-- 📚📖 Estudiante de Ingenieria de Sistemas (2 semestre).
+- 📚📖 Estudiante de Ingenieria de Sistemas.
 - 💻🎖️ Tecnico en Programación de software.
 - 🎨🖋️ Conocimientos de diseño grafico.
 - 📽️📹 Manejo de multimedia.
