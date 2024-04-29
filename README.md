@@ -66,7 +66,7 @@
     
 <img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
 
-<img align="left" alt="Photoshop" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
+<img align="left" alt="Photoshop" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
     
 <img align="left" alt="Blender" width="55px" src="https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png" />
 
