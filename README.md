@@ -19,25 +19,25 @@
 <h2>Lenguajes Que Manejo:</h2>
 
 <div>
-<img align="left" alt="Java" width="80px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
+<img align="left" alt="Java" width="50px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
 
-<img align="left" alt="HTML5" width="80px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="80px" src="https://github.com/github/explore/raw/main/topics/css/css.png" />
+<img align="left" alt="CSS3" width="50px" src="https://github.com/github/explore/raw/main/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="80px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
 
-<img align="left" alt="Python" width="80px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
+<img align="left" alt="Python" width="50px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
 
-<img align="left" alt="PHP" width="80px" src="https://github.com/github/explore/raw/main/topics/php/php.png" />
+<img align="left" alt="PHP" width="50px" src="https://github.com/github/explore/raw/main/topics/php/php.png" />
 
-<img align="left" alt="MySQL" width="80px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
 
-<img align="left" alt="C++" width="80px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
+<img align="left" alt="C++" width="50px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
 
-<img align="left" alt="C#" width="80px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
+<img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
 
-<img align="left" alt="Git" width="80px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
+<img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
 
 </div>
 
