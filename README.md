@@ -16,7 +16,7 @@
 - 😎🧐 Persona con hambre de conocimiento.
 
 
-Lenguajes Que Manejo:
+<h2>Lenguajes Que Manejo:</h2>
 
 <div>
 <img align="left" alt="Java" width="80px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
