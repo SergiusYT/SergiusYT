@@ -52,7 +52,7 @@
     
 <img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
 
-<img align="left" alt="Wordpress" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
+<img align="left" alt="JavaFX" width="80px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
 
 <img align="left" alt="JSF" width="60px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg-f1CaCAoVA-QQ3RQykEYGMDCXXoQg0PWu_e87LtR8gyG1yq5wbEoZM2-oHFP98k6WZm9cBqcRpQTlzi3-T2LpiRwDOKqRDwK1AolN0aphDMS4OKxCqTMM1gArHaLLz5HPUT3sNOo5Q/s1600/JSF-Logo-2+-+small.png" />
 
