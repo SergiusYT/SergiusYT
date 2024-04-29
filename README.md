@@ -64,7 +64,7 @@
     
 <img align="left" alt="Sublime Text" width="50px" src="https://github.com/github/explore/raw/main/topics/sublime-text/sublime-text.png" />
 
-<img align="left" alt="Unity" width="50px" src="https://github.com/github/explore/raw/main/topics/unity/unity.png" />
+<img align="left" alt="Unity" width="50px" src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" />
 
 <img align="left" alt="XAMPP" width="50px" src="https://github.com/github/explore/raw/main/topics/xampp/xampp.png" />
 
