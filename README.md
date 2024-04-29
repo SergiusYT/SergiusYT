@@ -33,7 +33,7 @@
 
 <img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
 
-<img align="left" alt="MySQL" width="70px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
+<img align="left" alt="MySQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
 
 <img align="left" alt="C++" width="50px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
 
