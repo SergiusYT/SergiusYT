@@ -37,8 +37,6 @@
 
 <img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
 
-<img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
-
 </div>
 
 <br><br><br>  <br>  <br>  <br>  
