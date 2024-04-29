@@ -52,9 +52,9 @@
     
 <img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
     
-<img align="left" alt="PHPMyAdmin" width="50px" src="https://github.com/github/explore/raw/main/topics/phpmyadmin/phpmyadmin.png" />
+<img align="left" alt="PHPMyAdmin" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/PhpMyAdmin_logo.png" />
     
-<img align="left" alt="Oracle" width="50px" src="https://github.com/github/explore/raw/main/topics/oracle/oracle.png" />
+<img align="left" alt="Oracle" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png" />
 </div>
 
 <br><br><br>  <br>  <br>  <br> 
