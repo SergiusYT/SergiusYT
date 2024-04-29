@@ -15,6 +15,8 @@
 - 💡🧠 Pensamiento emprendedor.
 - 😎🧐 Persona con hambre de conocimiento.
 
+<br><br><br> 
+
 
 <h2>💻🖋️Lenguajes Que He Trabajado:</h2>
 
