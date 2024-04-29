@@ -18,35 +18,17 @@ Datos Sobre mi:
 
 Lenguajes Que Manejo:
 
-- Java
-  ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-
-- HTML
-  ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-
-- CSS
-  ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-
-- JavaScript
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-
-- Python
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-- PHP
-  ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-
-- MySQL
-  ![MySQL](https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png)
-
-- C++
-  ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-
-- C#
-  ![C#](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)
-
-- Git
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+- :coffee: Java
+- :art: HTML
+- :nail_care: CSS
+- :computer: JavaScript
+- :snake: Python
+- :elephant: PHP
+- :file_folder: MySQL
+- :gear: C++
+- :musical_note: C#
+- :octocat: Git
+- :scroll: JSON
 
 
   
