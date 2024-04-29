@@ -86,6 +86,10 @@
 
 </div>
 
+<br><br>
+<h2>Softwares Que He Manejado:</h2>
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+
 
 <br><br><br>  <br> 
 <h2>Redes Sociales:</h2>
