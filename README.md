@@ -44,17 +44,17 @@
 
 <h2>Tecnologias que he usado:</h2>
 <div>
-       <img align="left" alt="Bootstrap" width="50px" src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Bootstrap" width="50px" src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" />
     
-    <img align="left" alt="Angular" width="50px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png" />
+<img align="left" alt="Angular" width="50px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png" />
     
-    <img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
+<img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
     
-    <img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
+<img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
     
-    <img align="left" alt="PHPMyAdmin" width="50px" src="https://github.com/github/explore/raw/main/topics/phpmyadmin/phpmyadmin.png" />
+<img align="left" alt="PHPMyAdmin" width="50px" src="https://github.com/github/explore/raw/main/topics/phpmyadmin/phpmyadmin.png" />
     
-    <img align="left" alt="Oracle" width="50px" src="https://github.com/github/explore/raw/main/topics/oracle/oracle.png" />
+<img align="left" alt="Oracle" width="50px" src="https://github.com/github/explore/raw/main/topics/oracle/oracle.png" />
 </div>
 
 <br><br><br>  <br>  <br>  <br> 
