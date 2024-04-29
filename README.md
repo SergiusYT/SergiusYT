@@ -64,7 +64,7 @@
     
 <img align="left" alt="Sublime Text" width="50px" src="https://github.com/github/explore/raw/main/topics/sublime-text/sublime-text.png" />
 
-<img align="left" alt="Xampp" width="50px" src="https://github.com/github/explore/raw/main/topics/xampp/xampp.png" />
+<img align="left" alt="XAMPP" width="50px" src="https://github.com/github/explore/raw/main/topics/xampp/xampp.png" />
 
 <img align="left" alt="PHPMyAdmin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" />
     
