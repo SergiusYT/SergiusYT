@@ -51,6 +51,8 @@
 <img align="left" alt="Angular" width="50px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png" />
     
 <img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
+
+<img align="left" alt="Wordpress" width="50px" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" />
     
 <img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
     
