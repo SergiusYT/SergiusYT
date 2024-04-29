@@ -33,6 +33,8 @@
 
 <img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
 
+<img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" />
+
 <img align="left" alt="C++" width="50px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
 
 <img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
