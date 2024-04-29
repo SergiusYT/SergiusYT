@@ -15,9 +15,10 @@ Datos Sobre mi:
 - 💡🧠 Pensamiento emprendedor.
 - 😎🧐 Persona con hambre de conocimiento.
 
-<div>
+
 Lenguajes Que Manejo:
 
+<div>
 <img align="left" alt="Java" width="80px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
 
 <img align="left" alt="HTML5" width="80px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
