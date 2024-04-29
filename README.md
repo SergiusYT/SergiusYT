@@ -56,11 +56,20 @@
 
 <br><br><br> 
 
-<h2>Software Que He Manejado:</h2>
+<h2>Softwares Que He Manejado:</h2>
 <div>
+<img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
+    
+<img align="left" alt="Sublime Text" width="80px" src="https://github.com/github/explore/raw/main/topics/sublime-text/sublime-text.png" />
+
 <img align="left" alt="PHPMyAdmin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" />
     
 <img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
+
+<img align="left" alt="Photoshop" width="80px" src="https://github.com/github/explore/raw/main/topics/photoshop/photoshop.png" />
+    
+<img align="left" alt="Blender" width="80px" src="https://github.com/github/explore/raw/main/topics/blender/blender.png" />
+
 </div>
 
 
