@@ -6,7 +6,7 @@
 
 
 
-Datos Sobre mi:
+<h2>Datos Sobre mi:</h2>
 
 - 📚📖 Estudiante de Ingenieria de Sistemas.
 - 💻🎖️ Tecnico en Programación de software.
