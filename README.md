@@ -48,6 +48,8 @@
 <h2>👨‍💻💡Tecnologias que he usado:</h2>
 <div>
 <img align="left" alt="Bootstrap" width="50px" src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" />
+
+<img align="left" alt="Angular" width="50px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
     
 <img align="left" alt="Angular" width="50px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png" />
     
