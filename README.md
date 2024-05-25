@@ -6,7 +6,7 @@
 
 
 
-<h2>🖥️⌨️Datos Sobre mi:</h2>
+<h2>🖥️⌨️Datos sobre mi:</h2>
 
 - 📚📖 Estudiante de Ingenieria de Sistemas.
 - 💻🎖️ Tecnico en Programación de software.
@@ -17,7 +17,7 @@
 
 <br><br> 
 
-<h2>💻🖋️Lenguajes Que He Trabajado:</h2>
+<h2>💻🖋️Lenguajes que he trabajado:</h2>
 
 <div>
 <img align="left" alt="Java" width="50px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
@@ -69,7 +69,7 @@
 
 <br><br><br> 
 
-<h2>⌨️🔧Softwares Que He Manejado:</h2>
+<h2>⌨️🔧Softwares que he manejado:</h2>
 <div>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
     
