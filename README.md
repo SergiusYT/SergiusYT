@@ -87,8 +87,6 @@
 <div>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
     
-<img align="left" alt="Sublime Text" width="50px" src="https://github.com/github/explore/raw/main/topics/sublime-text/sublime-text.png" />
-
 <img align="left" alt="GitHub" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 <img align="left" alt="Unity" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQpZjTBNnCdDy2zZGrxzczWojFV038k3CVEmwzxxbPw&s" />
