@@ -36,6 +36,8 @@
 
 <img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
 
+<img align="left" alt="SQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
+
 <img align="left" alt="Ruby" width="50px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" />
 
 </div>
@@ -46,9 +48,11 @@
 <div>
 <img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
 
-<img align="left" alt="SQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
+<img align="left" alt="MariaDB" width="60px" src="https://github.com/github/explore/raw/main/topics/mariadb/mariadb.png" />
 
 <img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
+
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />
 
 </div>
 
