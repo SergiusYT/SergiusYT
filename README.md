@@ -67,7 +67,7 @@
 
 <img align="left" alt="Docker" width="60px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
 
-<img align="left" alt="VMware" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.png](https://www.muylinux.com/2015/08/27/nuevas-versiones-virtualizacion-vmware/" />
+<img align="left" alt="VMware" width="70px" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2015/08/Nuevas-versiones-del-software-de-virtualizaci%C3%B3n-VMware.jpg" />
     
 </div>
 
