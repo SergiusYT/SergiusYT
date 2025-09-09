@@ -72,8 +72,6 @@
 <img align="left" alt="Spring Boot" width="50px" src="https://github.com/github/explore/raw/main/topics/spring/spring.png" />
 
 <img align="left" alt="JSF" width="60px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg-f1CaCAoVA-QQ3RQykEYGMDCXXoQg0PWu_e87LtR8gyG1yq5wbEoZM2-oHFP98k6WZm9cBqcRpQTlzi3-T2LpiRwDOKqRDwK1AolN0aphDMS4OKxCqTMM1gArHaLLz5HPUT3sNOo5Q/s1600/JSF-Logo-2+-+small.png" />
-
-<img align="left" alt="Wordpress" width="50px" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" />
     
 <img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
 
@@ -85,7 +83,7 @@
 
 <br><br><br> 
 
-<h2>⌨️🔧Softwares que he manejado:</h2>
+<h2>⌨️🔧Softwares y Herramientas que he manejado:</h2>
 <div>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
     
@@ -96,6 +94,14 @@
 <img align="left" alt="XAMPP" width="50px" src="https://github.com/github/explore/raw/main/topics/xampp/xampp.png" />
 
 <img align="left" alt="PHPMyAdmin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" />
+
+<img align="left" alt="Postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
+<img align="left" alt="Jira" width="50px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
+
+<img align="left" alt="Wordpress" width="50px" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" />
+
+<img align="left" alt="Oracle APEX" width="50px" src="https://seeklogo.com/images/O/oracle-apex-logo-6A1D8322E0-seeklogo.com.png" />
     
 <img align="left" alt="Photoshop" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
     
