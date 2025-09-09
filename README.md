@@ -120,6 +120,14 @@
 <img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
+<br><br><br> 
+
+<h2>📐 Modelado y Documentación:</h2>
+<div>
+<img align="left" alt="UML" width="55px" src="https://cdn-icons-png.flaticon.com/512/3534/3534066.png" />
+<img align="left" alt="BPMN" width="55px" src="https://cdn-icons-png.flaticon.com/512/906/906334.png" />
+<img align="left" alt="Diagramas ER" width="55px" src="https://cdn-icons-png.flaticon.com/512/2206/2206368.png" />
+</div>
 
 </div>
 
