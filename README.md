@@ -52,7 +52,7 @@
 
 <img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
 
-<img align="left" alt="MongoDB" width="50px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 
 </div>
 
