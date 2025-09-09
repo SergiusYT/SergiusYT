@@ -101,7 +101,7 @@
 
 <img align="left" alt="Wordpress" width="50px" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" />
 
-<img align="left" alt="Oracle APEX" width="50px" src="https://seeklogo.com/images/O/oracle-apex-logo-6A1D8322E0-seeklogo.com.png" />
+<img align="left" alt="Oracle APEX" width="50px" src="https://yt3.googleusercontent.com/U9ABBbHQJvErdAN28irWabhzmSonPyCSgFhFTpLYPmyzaZmTPBz8GpbuZJz_unu86DH9VS9yUQ=s900-c-k-c0x00ffffff-no-rj" />
     
 <img align="left" alt="Photoshop" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
     
