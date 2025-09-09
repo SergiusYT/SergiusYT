@@ -24,7 +24,7 @@
 
 <img align="left" alt="HTML5" width="50px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="50px" src="https://github.com/github/explore/raw/main/topics/css/css.png" />
+<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <img align="left" alt="JavaScript" width="50px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
 
@@ -34,7 +34,7 @@
 
 <img align="left" alt="C++" width="50px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
 
-<img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
+<img align="left" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <img align="left" alt="SQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
 
