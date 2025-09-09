@@ -32,15 +32,23 @@
 
 <img align="left" alt="PHP" width="50px" src="https://github.com/github/explore/raw/main/topics/php/php.png" />
 
-<img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
-
-<img align="left" alt="MySQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
-
 <img align="left" alt="C++" width="50px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
 
 <img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
 
 <img align="left" alt="Ruby" width="50px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" />
+
+</div>
+
+<br><br><br> 
+
+<h2>🗄️ Motores de Base de Datos que he usado:</h2>
+<div>
+<img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
+
+<img align="left" alt="SQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
+
+<img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
 
 </div>
 
@@ -85,8 +93,6 @@
 
 <img align="left" alt="PHPMyAdmin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" />
     
-<img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
-
 <img align="left" alt="Photoshop" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
     
 <img align="left" alt="Blender" width="55px" src="https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png" />
