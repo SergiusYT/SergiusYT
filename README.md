@@ -63,7 +63,7 @@
 <div>
 <img align="left" alt="Bootstrap" width="50px" src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" />
 
-<img align="left" alt="Angular" width="50px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
+<img align="left" alt="React" width="50px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
         
 <img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
 
@@ -89,6 +89,8 @@
     
 <img align="left" alt="Sublime Text" width="50px" src="https://github.com/github/explore/raw/main/topics/sublime-text/sublime-text.png" />
 
+<img align="left" alt="GitHub" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+
 <img align="left" alt="Unity" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQpZjTBNnCdDy2zZGrxzczWojFV038k3CVEmwzxxbPw&s" />
 
 <img align="left" alt="XAMPP" width="50px" src="https://github.com/github/explore/raw/main/topics/xampp/xampp.png" />
@@ -106,6 +108,18 @@
 <img align="left" alt="Photoshop" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
     
 <img align="left" alt="Blender" width="55px" src="https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png" />
+
+
+<br><br><br> 
+
+
+<h2>🖥️ Sistemas Operativos:</h2>
+<div>
+<img align="left" alt="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+
+<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+
 
 </div>
 
