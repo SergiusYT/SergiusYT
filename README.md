@@ -127,6 +127,7 @@
 <img align="left" alt="UML" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdGh3geEumAX7qPEeW49d8n-Zxvkvks3auTCBq4Ovp8IAF80MIwvXZj0vYrwyTSxALDs&usqp=CAU" />
 <img align="left" alt="Diagramas ER" width="55px" src="https://cdn-icons-png.flaticon.com/512/13097/13097462.png" />        
 <img align="left" alt="BPMN" width="55px" src="https://www.omg.org/images/logos/BPMN-logo.svg" />
+<img align="left" alt="ISO" width="55px" src="https://cdn.worldvectorlogo.com/logos/iso-31.svg" />
 </div>
 
 </div>
