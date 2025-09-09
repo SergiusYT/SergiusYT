@@ -40,6 +40,8 @@
 
 <img align="left" alt="C#" width="50px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />
 
+<img align="left" alt="Ruby" width="50px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" />
+
 </div>
 
 <br><br><br> 
@@ -62,6 +64,10 @@
 <img align="left" alt="Wordpress" width="50px" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" />
     
 <img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
+
+<img align="left" alt="Docker" width="60px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
+
+<img align="left" alt="VMware" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.png" />
     
 </div>
 
