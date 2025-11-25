@@ -75,6 +75,8 @@
     
 <img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
 
+<img align="left" alt="Django" width="50px" src="https://github.com/github/explore/raw/main/topics/django/django.png" />
+
 <img align="left" alt="Docker" width="60px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
 
 <img align="left" alt="VMware" width="70px" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2015/08/Nuevas-versiones-del-software-de-virtualizaci%C3%B3n-VMware.jpg" />
