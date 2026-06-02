@@ -140,4 +140,4 @@
 
 
 
-![metrics](https://gist.githubusercontent.com/SergiusYT/TU_GIST_ID/raw/metrics.svg)
+![metrics](https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/metrics.svg)
