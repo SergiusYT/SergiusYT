@@ -56,6 +56,8 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_days: 30
+          plugin_activity_visibility: all
+          plugin_activity_filter: ""
 
           plugin_calendar: yes
 
@@ -110,7 +112,7 @@ jobs:
           plugin_traffic: yes
 
           plugin_skyline: yes
-          plugin_skyline_year: 2026
+          plugin_skyline_year: 2025
 
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
@@ -131,7 +133,7 @@ jobs:
 
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: 76561199188649506
+          plugin_steam_user: sergiusyt
 
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
