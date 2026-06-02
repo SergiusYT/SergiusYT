@@ -76,7 +76,7 @@ jobs:
       # =========================
 
       - name: Starred Topics (Icons)
-        uses: lowlighter/metrics@v3.34.0  # 👈 VERSIÓN QUE FUNCIONABA
+        uses: lowlighter/metrics@v3.34  # 👈 SIN el .0 al final
         with:
           token: NOT_NEEDED
           user: SergiusYT
