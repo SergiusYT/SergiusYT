@@ -36,11 +36,11 @@ jobs:
           filename: github-metrics.svg
 
       # =========================
-      # ACTIVITY & CALENDAR (CORREGIDO)
+      # ACTIVITY & CALENDAR (CORREGIDO - usando master)
       # =========================
 
       - name: Activity Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
@@ -82,8 +82,12 @@ jobs:
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-community.svg
 
+      # =========================
+      # GITHUB STATS
+      # =========================
+
       - name: GitHub Stats
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
@@ -97,22 +101,22 @@ jobs:
           filename: github-metrics-stats.svg
 
       # =========================
-      # TRAFFIC (SKYLINE CORREGIDO)
+      # TRAFFIC (SKYLINE DESHABILITADO - timeout issues)
       # =========================
 
       - name: Traffic Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
           template: classic
           base: ""
           plugin_traffic: yes
-          plugin_skyline: yes
-          plugin_skyline_year: 2025
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_compatibility: true
+          # plugin_skyline: yes  # COMENTADO - causa timeout
+          # plugin_skyline_year: 2025
+          # plugin_skyline_frames: 60
+          # plugin_skyline_quality: 0.5
+          # plugin_skyline_compatibility: true
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-traffic.svg
@@ -131,6 +135,7 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561199188649506"
+          config_display: large
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-steam.svg
