@@ -76,7 +76,7 @@ jobs:
       # =========================
 
       - name: Starred Topics (Icons)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.34.0  # 👈 VERSIÓN QUE FUNCIONABA
         with:
           token: NOT_NEEDED
           user: SergiusYT
@@ -86,7 +86,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_limit: 20
           plugin_topics_sort: stars
-          committer_token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-topics-icons.svg
