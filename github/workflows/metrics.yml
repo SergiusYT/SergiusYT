@@ -22,4 +22,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           output_action: gist
-          committer_gist: TU_GIST_ID
+          committer_gist: ec42699864e81e440664927180da66ed
