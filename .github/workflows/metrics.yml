@@ -65,30 +65,11 @@ jobs:
           template: classic
           base: ""
           plugin_calendar: yes
-          plugin_calendar_year: 0
+          plugin_calendar_limit: 0
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-calendar.svg
 
-      # =========================
-      # LANGUAGES (TODOS SIN LIMITE)
-      # =========================
-
-      - name: Languages Metrics
-        uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: SergiusYT
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_limit: 0
-          plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
-          plugin_languages_sections: most-used
-          output_action: gist
-          committer_gist: ec42699864e81e440664927180da66ed
-          filename: github-metrics-languages.svg
 
       # =========================
       # STARRED TOPICS (TODOS SIN LIMITE)
@@ -102,8 +83,9 @@ jobs:
           template: classic
           base: ""
           plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 0
+          plugin_topics_mode: labels 
+          plugin_topics_limit: 20     
+          plugin_topics_sort: stars   
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-topics.svg
@@ -146,9 +128,9 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: classic  # 👈 CAMBIA de 'graph' a 'classic' (no requiere d3)
           plugin_habits_trim: yes
-          plugin_habits_languages_limit: 0
+          plugin_habits_languages_limit: 8    # 👈 CAMBIA de 0 a 8 (máximo)
           plugin_habits_languages_threshold: 0%
           config_timezone: America/Bogota
           output_action: gist
@@ -186,12 +168,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
           template: classic
-          base: ""
+          base: repositories
+          repositories_affiliations: owner
           plugin_traffic: yes
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-traffic.svg
-
+          
       # =========================
       # STEAM
       # =========================
