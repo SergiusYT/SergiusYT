@@ -140,4 +140,6 @@
 
 
 
-![metrics](https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg)
+<div align="center">
+  <img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg" alt="metrics">
+</div>
