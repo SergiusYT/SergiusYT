@@ -139,62 +139,26 @@
 [![Gmail](https://img.shields.io/badge/%3A-Gmail-%2316b81b?logo=gmail)](mailto:sergiolozanobueno2005@gmail.com) [![Instagram](https://img.shields.io/badge/:-Instagram-red?logo=instagram)](https://instagram.com/sergio_andres_lozano_?igshid=OGQ5ZDc2ODk2ZA==)  [![Facebook](https://img.shields.io/badge/%3A-Facebook-blue?logo=facebook)](https://www.facebook.com/sergioandres.lozanobuenos.7?mibextid=ZbWKwL)   [![Tik Tok](https://img.shields.io/badge/%3A-Tik%20Tok-gray?logo=tiktok)](https://www.tiktok.com/@sergiusyt007?_t=8gALdL1rk5F&_r=1) [![Discord](https://img.shields.io/badge/%3A-Discord-%234437b3?logo=discord)](https://discordapp.com/users/755600862780588084)  [![GitHub](https://img.shields.io/badge/%3A-GitHub-black?logo=github)](https://github.com/SergiusYT) 
 
 
-## 📊 GitHub Metrics
+<!-- START_SECTION:metrics -->
+![GitHub Metrics](./github-metrics.svg)
+<!-- END_SECTION:metrics -->
 
-<p align="center">
-  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg" />
-</p>
+## 📈 Actividad Reciente
 
----
+![Activity Metrics](./github-metrics-activity.svg)
 
-## 💻 Development Activity
+## 🌍 Comunidad
 
-<p align="center">
-  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-activity.svg" />
-</p>
+![Community Metrics](./github-metrics-community.svg)
 
----
+## 📊 Estadísticas de GitHub
 
-## 🌎 Community & Open Source
+![GitHub Stats](./github-metrics-stats.svg)
 
-<p align="center">
-  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-community.svg" />
-</p>
+## 🚦 Tráfico y Actividad 3D
 
----
+![Traffic Metrics](./github-metrics-traffic.svg)
 
-## 🚀 Repository Traffic & Skyline
+## 🎮 Actividad en Steam
 
-<p align="center">
-  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-traffic.svg" />
-</p>
-
----
-
-## 🎮 Steam
-
-<p align="center">
-  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-steam.svg" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,react,nextjs,typescript,javascript,mysql,postgres,mongodb,docker,git,github,linux" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergiusYT&show_icons=true)
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SergiusYT" />
-</p>
+![Steam Metrics](./github-metrics-steam.svg)
