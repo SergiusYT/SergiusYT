@@ -189,9 +189,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SergiusYT&show_icons=true&cache_seconds=86400" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergiusYT&show_icons=true)
 
 ---
 
