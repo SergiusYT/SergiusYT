@@ -60,6 +60,7 @@ jobs:
           plugin_calendar: yes
 
           plugin_lines: yes
+          plugin_lines_sections: base
 
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
@@ -109,7 +110,7 @@ jobs:
           plugin_traffic: yes
 
           plugin_skyline: yes
-          plugin_skyline_year: 2025
+          plugin_skyline_year: 2026
 
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
