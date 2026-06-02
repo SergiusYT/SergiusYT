@@ -141,10 +141,63 @@
 
 ## 📊 GitHub Metrics
 
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg" />
+<p align="center">
+  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg" />
+</p>
 
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-dev.svg" />
+---
 
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-projects.svg" />
+## 💻 Development Activity
 
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-community.svg" />
+<p align="center">
+  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-activity.svg" />
+</p>
+
+---
+
+## 🌎 Community & Open Source
+
+<p align="center">
+  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-community.svg" />
+</p>
+
+---
+
+## 🚀 Repository Traffic & Skyline
+
+<p align="center">
+  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-traffic.svg" />
+</p>
+
+---
+
+## 🎮 Steam
+
+<p align="center">
+  <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-steam.svg" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,react,nextjs,typescript,javascript,mysql,postgres,mongodb,docker,git,github,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergiusYT&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiusYT&layout=compact" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SergiusYT" />
+</p>
