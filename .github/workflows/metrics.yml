@@ -83,9 +83,10 @@ jobs:
           template: classic
           base: ""
           plugin_topics: yes
-          plugin_topics_mode: icons  # Solo iconos (los que tengan)
+          plugin_topics_mode: icons
           plugin_topics_limit: 20
           plugin_topics_sort: stars
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-topics-icons.svg
