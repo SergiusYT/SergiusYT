@@ -49,24 +49,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
-
           template: classic
           base: ""
-
           plugin_activity: yes
           plugin_activity_limit: 15
           plugin_activity_days: 30
-          plugin_activity_visibility: all
-          plugin_activity_events: push,issues,pull_request,create 
+          plugin_activity_visibility: public  
           plugin_activity_filter: ""
           plugin_activity_timestamps: false
-          plugin_activity_skipped: ""
-
           plugin_calendar: yes
-
           plugin_lines: yes
           plugin_lines_sections: base
-
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-activity.svg
@@ -116,6 +109,7 @@ jobs:
 
           plugin_skyline: yes
           plugin_skyline_year: 2026
+          plugin_skyline_timeout: 120000
 
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
