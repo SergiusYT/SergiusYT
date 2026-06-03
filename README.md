@@ -196,6 +196,8 @@
 <!-- STEAM -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-steam.svg" />
 
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SergiusYT&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SergiusYT" />
 </p>
