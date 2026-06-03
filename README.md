@@ -148,23 +148,33 @@
 
 <br/><br/>
 
+<!-- CODING HABITS (RACHAS Y ACTIVIDAD) -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-habits.svg" />
+
+<br/><br/>
+
 <!-- COMMIT CALENDAR -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-calendar.svg" />
 
 <br/><br/>
 
-<!-- ACHIEVEMENTS -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-achievements.svg" />
+<!-- LINES OF CODE -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-lines.svg" />
+
+<br/><br/>
+
+<!-- REPOSITORY CONTRIBUTORS -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-contributors.svg" />
+
+<br/><br/>
+
+<!-- FOLLOW-UP (ISSUES/PRs) -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-followup.svg" />
 
 <br/><br/>
 
 <!-- NOTABLE CONTRIBUTIONS -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-notable.svg" />
-
-<br/><br/>
-
-<!-- LINES OF CODE -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-lines.svg" />
 
 <br/><br/>
 
