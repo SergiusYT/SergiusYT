@@ -84,7 +84,7 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_topics_limit: 0
+          plugin_topics_limit: 20  # ← máximo, no 0
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-topics.svg
