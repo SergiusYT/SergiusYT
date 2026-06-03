@@ -138,32 +138,55 @@
 
 [![Gmail](https://img.shields.io/badge/%3A-Gmail-%2316b81b?logo=gmail)](mailto:sergiolozanobueno2005@gmail.com) [![Instagram](https://img.shields.io/badge/:-Instagram-red?logo=instagram)](https://instagram.com/sergio_andres_lozano_?igshid=OGQ5ZDc2ODk2ZA==)  [![Facebook](https://img.shields.io/badge/%3A-Facebook-blue?logo=facebook)](https://www.facebook.com/sergioandres.lozanobuenos.7?mibextid=ZbWKwL)   [![Tik Tok](https://img.shields.io/badge/%3A-Tik%20Tok-gray?logo=tiktok)](https://www.tiktok.com/@sergiusyt007?_t=8gALdL1rk5F&_r=1) [![Discord](https://img.shields.io/badge/%3A-Discord-%234437b3?logo=discord)](https://discordapp.com/users/755600862780588084)  [![GitHub](https://img.shields.io/badge/%3A-GitHub-black?logo=github)](https://github.com/SergiusYT) 
 
-<!-- GitHub Stats -->
+<!-- TERMINAL (BANNER PRINCIPAL) -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-terminal.svg" />
+
+<br/><br/>
+
+<!-- MAIN PROFILE -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg" />
 
-<!-- Isometric Calendar -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-isocalendar.svg" />
+<br/><br/>
 
-<!-- Commit Calendar -->
+<!-- COMMIT CALENDAR -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-calendar.svg" />
 
-<!-- Languages -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-languages.svg" />
+<br/><br/>
 
-<!-- Starred Topics -->
+<!-- ACHIEVEMENTS -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-achievements.svg" />
+
+<br/><br/>
+
+<!-- NOTABLE CONTRIBUTIONS -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-notable.svg" />
+
+<br/><br/>
+
+<!-- LINES OF CODE -->
+<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-lines.svg" />
+
+<br/><br/>
+
+<!-- STARRED TOPICS -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-topics.svg" />
 
-<!-- Stargazers Worldmap -->
+<br/><br/>
+
+<!-- STARGAZERS WORLDMAP -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-stargazers.svg" />
 
-<!-- Coding Habits -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-habits.svg" />
+<br/><br/>
 
-<!-- Community -->
+<!-- COMMUNITY -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-community.svg" />
 
-<!-- Traffic -->
+<br/><br/>
+
+<!-- TRAFFIC -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-traffic.svg" />
 
-<!-- Steam -->
+<br/><br/>
+
+<!-- STEAM -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-steam.svg" />
