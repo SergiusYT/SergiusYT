@@ -148,11 +148,6 @@
 
 <br/><br/>
 
-<!-- CODING HABITS (RACHAS Y ACTIVIDAD) -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-habits.svg" />
-
-<br/><br/>
-
 <!-- COMMIT CALENDAR -->
 <img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-calendar.svg" />
 
