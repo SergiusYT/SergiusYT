@@ -82,10 +82,10 @@ jobs:
           template: classic
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 20  # 👈 CAMBIA DE 0 A 20 (máximo permitido)
           plugin_topics_mode: icons
           plugin_topics_sort: stars
-          output_action: repository  # 👈 CAMBIA DE 'gist' A 'repository'
+          output_action: repository
           filename: github-metrics-topics-icons.svg
 
       # =========================
