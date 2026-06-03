@@ -74,19 +74,20 @@ jobs:
       # =========================
       # STARRED TOPICS (TODOS SIN LIMITE)
       # =========================
+
       - name: Starred Topics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
           template: classic
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 20  # 👈 CAMBIA DE 0 A 20 (máximo permitido)
           plugin_topics_mode: icons
-          plugin_topics_sort: stars
-          output_action: repository
-          filename: github-metrics-topics-icons.svg
+          plugin_topics_limit: 0
+          output_action: gist
+          committer_gist: ec42699864e81e440664927180da66ed
+          filename: github-metrics-topics.svg
 
       # =========================
       # STARGAZERS WITH WORLDMAP
