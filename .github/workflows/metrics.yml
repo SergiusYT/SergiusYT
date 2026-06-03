@@ -115,8 +115,8 @@ jobs:
       # CODING HABITS AND ACTIVITY
       # =========================
 
-      - name: Coding Habits
-        uses: lowlighter/metrics@latest  # ← ESTABLE
+      - name: Coding Facts
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SergiusYT
@@ -124,9 +124,7 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
+          plugin_habits_charts: no
           config_timezone: America/Bogota
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
