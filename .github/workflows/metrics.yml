@@ -151,7 +151,7 @@ jobs:
           filename: github-metrics-steam.svg
 
       # =========================
-      # 8. TERMINAL METRICS (NUEVO - PERFIL PROFESIONAL)
+      # 8. TERMINAL METRICS
       # =========================
 
       - name: Terminal Metrics
@@ -166,26 +166,7 @@ jobs:
           committer_gist: ec42699864e81e440664927180da66ed
 
       # =========================
-      # 9. ACHIEVEMENTS (LOGROS DE GITHUB)
-      # =========================
-
-      - name: Achievements
-        uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: SergiusYT
-          template: classic
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          output_action: gist
-          committer_gist: ec42699864e81e440664927180da66ed
-          filename: github-metrics-achievements.svg
-
-      # =========================
-      # 10. NOTABLE CONTRIBUTIONS
+      # 9. NOTABLE CONTRIBUTIONS
       # =========================
 
       - name: Notable Contributions
@@ -202,7 +183,7 @@ jobs:
           filename: github-metrics-notable.svg
 
       # =========================
-      # 11. LINES OF CODE CHANGED
+      # 10. LINES OF CODE CHANGED
       # =========================
 
       - name: Lines of Code
@@ -217,3 +198,62 @@ jobs:
           output_action: gist
           committer_gist: ec42699864e81e440664927180da66ed
           filename: github-metrics-lines.svg
+
+      # =========================
+      # 11. CODING HABITS (RACHAS Y ACTIVIDAD)
+      # =========================
+
+      - name: Coding Habits
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SergiusYT
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 365
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+          config_timezone: America/Bogota
+          output_action: gist
+          committer_gist: ec42699864e81e440664927180da66ed
+          filename: github-metrics-habits.svg
+
+      # =========================
+      # 12. REPOSITORY CONTRIBUTORS
+      # =========================
+
+      - name: Repository Contributors
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SergiusYT
+          template: classic
+          base: ""
+          plugin_contributors: yes
+          plugin_contributors_base: repositories
+          plugin_contributors_head: repositories
+          plugin_contributors_contributions: yes
+          output_action: gist
+          committer_gist: ec42699864e81e440664927180da66ed
+          filename: github-metrics-contributors.svg
+
+      # =========================
+      # 13. FOLLOW-UP (ISSUES Y PULL REQUESTS)
+      # =========================
+
+      - name: Follow-up
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SergiusYT
+          template: classic
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          output_action: gist
+          committer_gist: ec42699864e81e440664927180da66ed
+          filename: github-metrics-followup.svg
