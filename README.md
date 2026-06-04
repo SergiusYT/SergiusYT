@@ -1,203 +1,237 @@
-<div>
-<h1 align ="center"> Hola mundo, Soy Sergio Andres Lozano Bueno 💻✌️ </h1>
-</div>
+<div align="center">
 
-<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif">
+# ⟨ Sergio Andrés Lozano Bueno /⟩
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=1EC8D6&text=Sergio%20Andres%20Lozano%20Bueno&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=46B0EF&center=true&vCenter=true&width=1100&lines=Ingeniería+de+Sistemas+%7C+Desarrollo+de+Software;Análisis,+diseño+y+construcción+de+soluciones+tecnológicas;Aplicaciones+web,+APIs+y+arquitecturas+escalables;Pensamiento+crítico,+aprendizaje+continuo+e+innovación;Creando+software+que+genera+valor+e+impacto+real)](https://git.io/typing-svg)
 
-<h2>🖥️⌨️Datos sobre mi:</h2>
+<img src="https://github.com/SergiusYT/SergiusYT/blob/main/banner.gif" width="100%"/>
 
-- 📚📖 Estudiante de Ingenieria de Sistemas.
-- 💻🎖️ Tecnico en Programación de software.
-- 🎨🖋️ Conocimientos de diseño grafico.
-- 📽️📹 Manejo de multimedia.
-- 💡🧠 Pensamiento emprendedor.
-- 😎🧐 Persona con hambre de conocimiento.
+---
 
-<br><br> 
+## 🖥️ Mi Entorno de Trabajo
 
-<h2>💻🖋️Lenguajes que he trabajado:</h2>
+<div align="center">
 
-<div>
-<img align="left" alt="Java" width="50px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-terminal.svg"/>
 
-<img align="left" alt="HTML5" width="50px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="left" alt="JavaScript" width="50px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
-
-<img align="left" alt="Python" width="50px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
-
-<img align="left" alt="PHP" width="50px" src="https://github.com/github/explore/raw/main/topics/php/php.png" />
-
-<img align="left" alt="C++" width="50px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
-
-<img align="left" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-<img align="left" alt="SQL" width="90px" src="https://www.mytecbits.com/wp-content/uploads/SQL.png" />
-
-<img align="left" alt="Ruby" width="50px" src="https://github.com/github/explore/raw/main/topics/ruby/ruby.png" />
-
-</div>
-
-<br><br><br> 
-
-<h2>🗄️ Motores de Base de Datos que he usado:</h2>
-<div>
-<img align="left" alt="MySQL" width="50px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
-
-<img align="left" alt="MariaDB" width="60px" src="https://github.com/github/explore/raw/main/topics/mariadb/mariadb.png" />
-
-<img align="left" alt="Oracle" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiZL1Ar7xAHHVu5CbcRBshhjdGdnuAzDsF5Zvv0k7Tw&s" />
-
-<img align="left" alt="MongoDB" width="50px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-
-</div>
-
-<br><br><br> 
-
-
-<h2>👨‍💻💡Tecnologias que he usado:</h2>
-<div>
-<img align="left" alt="Bootstrap" width="50px" src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="React" width="50px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />
-        
-<img align="left" alt="Git" width="50px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
-
-<img align="left" alt="JavaFX" width="85px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
-
-<img align="left" alt="Spring Boot" width="50px" src="https://github.com/github/explore/raw/main/topics/spring/spring.png" />
-
-<img align="left" alt="JSF" width="60px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg-f1CaCAoVA-QQ3RQykEYGMDCXXoQg0PWu_e87LtR8gyG1yq5wbEoZM2-oHFP98k6WZm9cBqcRpQTlzi3-T2LpiRwDOKqRDwK1AolN0aphDMS4OKxCqTMM1gArHaLLz5HPUT3sNOo5Q/s1600/JSF-Logo-2+-+small.png" />
-    
-<img align="left" alt="JSON" width="50px" src="https://github.com/github/explore/raw/main/topics/json/json.png" />
-
-<img align="left" alt="Django" width="50px" src="https://github.com/github/explore/raw/main/topics/django/django.png" />
-
-<img align="left" alt="Docker" width="60px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
-
-<img align="left" alt="VMware" width="70px" src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2015/08/Nuevas-versiones-del-software-de-virtualizaci%C3%B3n-VMware.jpg" />
-    
-</div>
-
-<br><br><br> 
-
-<h2>⌨️🔧Softwares y Herramientas que he manejado:</h2>
-<div>
-<img align="left" alt="Visual Studio Code" width="50px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
-    
-<img align="left" alt="GitHub" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-
-<img align="left" alt="Unity" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQpZjTBNnCdDy2zZGrxzczWojFV038k3CVEmwzxxbPw&s" />
-
-<img align="left" alt="XAMPP" width="50px" src="https://github.com/github/explore/raw/main/topics/xampp/xampp.png" />
-
-<img align="left" alt="PHPMyAdmin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" />
-
-<img align="left" alt="Postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-
-<img align="left" alt="Jira" width="50px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
-
-<img align="left" alt="Wordpress" width="50px" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" />
-
-<img align="left" alt="Oracle APEX" width="50px" src="https://yt3.googleusercontent.com/U9ABBbHQJvErdAN28irWabhzmSonPyCSgFhFTpLYPmyzaZmTPBz8GpbuZJz_unu86DH9VS9yUQ=s900-c-k-c0x00ffffff-no-rj" />
-    
-<img align="left" alt="Photoshop" width="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_OIcvt_9h8vKbB2-R0vqsc-RVoaX53Vl4-vkQ_Ln0A&s" />
-    
-<img align="left" alt="Blender" width="55px" src="https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png" />
-
-
-<br><br><br> 
-
-
-<h2>🖥️ Sistemas Operativos:</h2>
-<div>
-<img align="left" alt="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-
-<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-
-<br><br><br> 
-
-<h2>📐 Modelado y Documentación:</h2>
-<div>
-<img align="left" alt="UML" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdGh3geEumAX7qPEeW49d8n-Zxvkvks3auTCBq4Ovp8IAF80MIwvXZj0vYrwyTSxALDs&usqp=CAU" />
-<img align="left" alt="Diagramas ER" width="55px" src="https://cdn-icons-png.flaticon.com/512/13097/13097462.png" />        
-<img align="left" alt="BPMN" width="55px" src="https://www.omg.org/images/logos/BPMN-logo.svg" />
-<img align="left" alt="ISO" width="55px" src="https://cdn.worldvectorlogo.com/logos/iso-31.svg" />
 </div>
 
 </div>
 
+---
 
-<br><br><br>  <br> 
-<h2>👥🗣️Redes Sociales:</h2>
+## 🧬 Sobre mí
 
-[![Gmail](https://img.shields.io/badge/%3A-Gmail-%2316b81b?logo=gmail)](mailto:sergiolozanobueno2005@gmail.com) [![Instagram](https://img.shields.io/badge/:-Instagram-red?logo=instagram)](https://instagram.com/sergio_andres_lozano_?igshid=OGQ5ZDc2ODk2ZA==)  [![Facebook](https://img.shields.io/badge/%3A-Facebook-blue?logo=facebook)](https://www.facebook.com/sergioandres.lozanobuenos.7?mibextid=ZbWKwL)   [![Tik Tok](https://img.shields.io/badge/%3A-Tik%20Tok-gray?logo=tiktok)](https://www.tiktok.com/@sergiusyt007?_t=8gALdL1rk5F&_r=1) [![Discord](https://img.shields.io/badge/%3A-Discord-%234437b3?logo=discord)](https://discordapp.com/users/755600862780588084)  [![GitHub](https://img.shields.io/badge/%3A-GitHub-black?logo=github)](https://github.com/SergiusYT) 
+```javascript
+const sergio = {
+  nombre:     "Sergio Andrés Lozano Bueno",
+  ubicacion:  "Colombia 🇨🇴",
+  rol:        "Ingeniero de Sistemas",
+  educacion:  ["Ing. de Sistemas", "Técnico en Programación de Software"],
+  intereses:  ["Desarrollo de Software", "Linux y Código Abierto", "Arquitectura de Sistemas", "Innovación Tecnológica", "Emprendimiento"],
+  filosofia:  "El progreso surge de la mente que se atreve a imaginar un sistema mejor que el mundo aun no ve 💡"
+};
+```
 
-<!-- TERMINAL (BANNER PRINCIPAL) -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-terminal.svg" />
+---
 
-<br/><br/>
+## 🛠️ Stack Tecnológico
 
-<!-- MAIN PROFILE -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg" />
+### 💻 Lenguajes
+<div align="center">
 
-<br/><br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-<!-- COMMIT CALENDAR -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-calendar.svg" />
+</div>
 
-<br/><br/>
+### 🗄️ Bases de Datos
+<div align="center">
 
-<!-- LINES OF CODE -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-lines.svg" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/><br/>
+</div>
 
-<!-- REPOSITORY CONTRIBUTORS -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-contributors.svg" />
+### ⚙️ Frameworks y Tecnologías
+<div align="center">
 
-<br/><br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<!-- FOLLOW-UP (ISSUES/PRs) -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-followup.svg" />
+</div>
 
-<br/><br/>
+### 🔧 Herramientas
+<div align="center">
 
-<!-- NOTABLE CONTRIBUTIONS -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-notable.svg" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-<br/><br/>
+</div>
 
-<!-- STARRED TOPICS -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-topics.svg" />
+### 🖥️ Sistemas Operativos
+<div align="center">
 
-<br/><br/>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- STARGAZERS WORLDMAP -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-stargazers.svg" />
+</div>
 
-<br/><br/>
+### 📐 Modelado y Documentación
+<div align="center">
 
-<!-- COMMUNITY -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-community.svg" />
+![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logoColor=black)
+![BPMN](https://img.shields.io/badge/BPMN-0066CC?style=for-the-badge&logoColor=white)
+![ISO](https://img.shields.io/badge/ISO-003087?style=for-the-badge&logoColor=white)
 
-<br/><br/>
+</div>
 
-<!-- TRAFFIC -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-traffic.svg" />
+---
 
-<br/><br/>
+## 📊 Métricas de GitHub
 
-<!-- STEAM -->
-<img src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-steam.svg" />
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics.svg"/>
+</div>
 
-## 🔥 Contribution Streak
+---
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SergiusYT" />
-</p>
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SergiusYT&theme=algolia&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📊 Analítica de GitHub
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SergiusYT&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiusYT&layout=compact&theme=algolia&hide_border=true" />
+</div>
+
+---
+
+## 📅 Calendario de Contribuciones
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-calendar.svg"/>
+</div>
+
+---
+
+## 🔥 Racha de Contribuciones
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=SergiusYT&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=46b0ef&fire=46b0ef&currStreakLabel=46b0ef" />
+</div>
+
+---
+
+## 📌 Temas Destacados
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-topics.svg"/>
+</div>
+
+---
+
+## 🗂️ Seguimiento de Issues y PRs
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-followup.svg"/>
+</div>
+
+---
+
+## 🎩 Contribuciones Notables
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-notable.svg"/>
+</div>
+
+---
+
+## ✨ Estrellas recibidas
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-stargazers.svg"/>
+</div>
+
+---
+
+## 👥 Comunidad
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-community.svg"/>
+</div>
+
+---
+
+## 🧮 Tráfico de Repositorios
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-traffic.svg"/>
+</div>
+
+---
+
+## 🕹️ Steam
+
+<div align="center">
+<img width="100%" src="https://gist.githubusercontent.com/SergiusYT/ec42699864e81e440664927180da66ed/raw/github-metrics-steam.svg"/>
+</div>
+
+---
+
+## 🌐 Redes Sociales
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiolozanobueno2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-andres-lozano-bueno-03152925a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sergio_andres_lozano_)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sergiusyt007)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/755600862780588084)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sergioandres.lozanobuenos.7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergiusYT)
+
+</div>
+
+---
+
+<div align="center">
+
+*"El progreso surge de la mente que se atreve a imaginar un sistema mejor que el mundo aun no ve"* 💻✌️
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SergiusYT&color=46b0ef&style=for-the-badge)
+
+</div>
