@@ -1,7 +1,4 @@
 <div align="center">
-
-# ⟨ Sergio Andrés Lozano Bueno /⟩
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=1EC8D6&text=Sergio%20Andres%20Lozano%20Bueno&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=46B0EF&center=true&vCenter=true&width=1100&lines=Ingeniería+de+Sistemas+%7C+Desarrollo+de+Software;Análisis,+diseño+y+construcción+de+soluciones+tecnológicas;Aplicaciones+web,+APIs+y+arquitecturas+escalables;Pensamiento+crítico,+aprendizaje+continuo+e+innovación;Creando+software+que+genera+valor+e+impacto+real)](https://git.io/typing-svg)
