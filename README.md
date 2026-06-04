@@ -123,7 +123,7 @@ const sergio = {
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SergiusYT&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SergiusYT&theme=algolia&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -131,8 +131,8 @@ const sergio = {
 ## 📊 Analítica de GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SergiusYT&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiusYT&layout=compact&theme=algolia&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SergiusYT&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergiusYT&layout=compact&theme=algolia&hide_border=true" />
 </div>
 
 ---
