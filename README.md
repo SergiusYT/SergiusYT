@@ -132,7 +132,7 @@ const sergio = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SergiusYT&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergiusYT&layout=compact&theme=algolia&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergiusYT&layout=compact&theme=algolia&hide_border=true" />
 </div>
 
 ---
